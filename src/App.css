@@ -1,0 +1,9 @@
+.main-content {
+  margin: 4rem 2.5rem;
+}
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+a:hover {
+  color: rgb(33, 64, 154);
+  cursor: pointer;
+}

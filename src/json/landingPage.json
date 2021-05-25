@@ -1,0 +1,127 @@
+{
+  "newNews": [
+    {
+      "_id": "asd123dsa321",
+      "name": "Foto Laptop 1",
+      "imageUrl": "/assets/images/images-1.jpg",
+      "title": "Reaksi Simeone saat Ditawari Luis Suarez: ini Serius?"
+    },
+    {
+      "_id": "asd123dsa321",
+      "name": "Foto Laptop 2",
+      "imageUrl": "/assets/images/images-2.jpg",
+      "title": "Satu Penyesalan Wijnaldum saat tinggalkan Liverpool"
+    },
+    {
+      "_id": "asd123dsa321",
+      "name": "Foto Laptop 3",
+      "imageUrl": "/assets/images/images-3.jpg",
+      "title": "Bye-Bye Covid-19 Negara ini klaim sudah capai Herd Immunity"
+    },
+    {
+      "_id": "asd123dsa321",
+      "name": "Foto Laptop 4",
+      "imageUrl": "/assets/images/images-4.jpg",
+      "title": "9 Negara ini Legalkan Bitcoin cs.Bagaimana dengan RI?"
+    },
+    {
+      "_id": "asd123dsa321",
+      "name": "Foto Laptop 5",
+      "imageUrl": "/assets/images/images-5.png",
+      "title": "Mobil Jangkung Free Palestine dukungan kemerdekaan Palestina"
+    }
+  ],
+  "listNavTop": [
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikNews"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikFinance"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikHot"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikInet"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikSport"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikOto"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikFood"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikTravel"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "detikHealth"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Wolipop"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "20Detik"
+    }
+  ],
+
+  "listNavBottom": [
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Live TV"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Adsmart"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Foto"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "DetikX"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Sepakbola"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Pasangmata"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Hikmah"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "dYouthizen"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "Edukasi"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "MotoGP 2021"
+    },
+    {
+      "_id": "asd123dsa321",
+      "nameList": "BBMA 2021"
+    }
+  ]
+}
